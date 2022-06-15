@@ -1,0 +1,66 @@
+/*
+  index.css - Краткое описание 
+
+  Copyright 2018 ymenshov.
+  27.07.2018 Версия 1
+*/
+/* 
+    Created on : 27.07.2018, 17:06:07
+    Author     : ymenshov
+*/
+
+#MMN
+{
+  width: 100%;  
+}
+
+#MMN a
+{
+  display: block;
+  font-size: large;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 5em;
+  color: LightGrey;
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 1px 1px grey, -1px -1px grey, 1px -1px grey, -1px 1px grey;
+  letter-spacing: 2px;
+}
+
+#MMN td
+{
+  width: 49%;
+}
+
+#MMN a:hover
+{
+  color: LemonChiffon;
+  text-shadow: 2px 2px 5px black;
+}
+
+#P1
+{
+  background-color: DeepPink;
+}
+
+#P2
+{
+  background-color: SaddleBrown;
+}
+
+#P3
+{
+  background-color: SlateBlue;
+}
+
+#P4
+{
+  background-color: Green;
+}
+
+#P5
+{
+  background-color: DarkGoldenrod;
+}
+

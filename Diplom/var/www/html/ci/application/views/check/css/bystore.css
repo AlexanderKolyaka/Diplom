@@ -1,0 +1,43 @@
+/* 
+    Created on : 08.08.2018, 12:23:55
+    Author     : ymenshov
+*/
+
+#SUMALL
+{
+  border: 1px solid;
+  border-collapse: collapse;
+  cursor: default;
+  width: 40ex;
+  margin: auto;
+}
+
+#SUMALL td,#SUMALL th
+{
+  border: 1px solid;
+}
+
+.S
+{
+  background-color: PowderBlue;
+}
+
+.F
+{
+  background-color: azure;
+}
+
+#SUMALL .F td,#SUMALL .F th
+{
+  border: 1px dotted;
+}
+
+.COL1
+{
+  width: 90%;
+}
+
+.HCOL
+{
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 мая 2022 г., 21:06:01
+    Author     : user
+*/
+
+table
+{
+    font-family: sans-serif;
+    width: 100%;
+}
+
+thead
+{
+    background-color: gainsboro;
+}

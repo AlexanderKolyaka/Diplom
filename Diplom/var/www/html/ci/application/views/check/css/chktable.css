@@ -1,0 +1,33 @@
+/*
+chktable.css - Краткое описание 
+
+Copyright 2018 ymenshov.
+01.08.2018 Версия 1
+
+Полное описание файла
+*/
+.chktable
+{
+  border-collapse: collapse;
+  border: 2px solid RoyalBlue;
+  font-family: sans-serif;
+  margin: auto;
+  box-shadow: 2px 2px 5px gray;
+}
+
+.chktable td
+{
+  border: 1px solid RoyalBlue;
+}
+
+.chktable th
+{
+  color: snow;
+  background-color: RoyalBlue;
+}
+
+.chktable caption
+{
+  font-size: larger;
+  font-weight: bolder;
+}
